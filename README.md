@@ -11,6 +11,17 @@ AegisCore
 ├── DDS / SOME-IP
 └── Functional Safety Framework
 ```
+
+### Notes to consider.
+I think xen is good:
+Automotive Grade Linux
+
+1w
+
+How do you evolve a 20+ year old open source codebase to meet safety-critical automotive standards?
+
+Cody Zuschlag from the The Xen Project shared insights on adapting mature open source projects for functional safety. To support safety-critical systems, community processes must produce verifiable safety evidence, updated documentation, and reusable safety artifacts without fracturing the existing contributor community.
+
 ## Architecture
 
 ```Text
